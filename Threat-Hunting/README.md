@@ -19,3 +19,7 @@ We will be hunting for indications/signs for the following stages in the MITRE A
   7. Data Staging
   8. Exfilteration    a. using DNS    b. via FTP
   9. Clearing Logs
+
+**Workshop Goals**
+
+The primary goal of this workshop series is to expose participants to various adversary techniques and illustrate how threat hunters can develop hypotheses to hunt for specific adversary capabilities using Splunk. This project is one of eleven hunts in the workshop series, each focusing on different aspects of APT detection and mitigation.
